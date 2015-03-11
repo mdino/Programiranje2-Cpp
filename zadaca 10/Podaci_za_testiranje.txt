@@ -1,0 +1,4 @@
+kljuc	cetvrta	peta	sedma	treca	prva	
+27	28	HOG	29	IPH	0.4	
+94	95	WDV	96	XEW	7.1	
+61	62	LSK	63	MTL	4.8	
